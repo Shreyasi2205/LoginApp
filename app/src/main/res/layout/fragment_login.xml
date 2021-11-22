@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<layout>
-
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -110,7 +108,4 @@
         android:fontFamily="sans-serif-black"
         android:text="@string/btn_cancel_name"
         android:textColor="@color/white" />
-
-
 </LinearLayout>
-</layout>
