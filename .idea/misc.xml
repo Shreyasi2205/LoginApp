@@ -13,6 +13,7 @@
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.24320652173913043" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.24320652173913043" />
         <entry key="app/src/main/res/layout/activity_sign_in.xml" value="0.24320652173913043" />
+        <entry key="app/src/main/res/layout/fragment_sign_in.xml" value="0.21614583333333334" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.24583333333333332" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.24583333333333332" />
       </map>
